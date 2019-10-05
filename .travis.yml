@@ -10,6 +10,10 @@ matrix:
       elixir: 1.8.1
     - otp_release: 22.0
       elixir: 1.8.1
+    - otp_release: 21.3
+      elixir: 1.9.1
+    - otp_release: 22.0.7
+      elixir: 1.9.1
 
 env:
   global:
